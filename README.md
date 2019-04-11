@@ -1,2 +1,1 @@
-# CASTLE_example
-Application example of CASTLE
+# Castle_Example
